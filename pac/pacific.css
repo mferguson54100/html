@@ -1,0 +1,40 @@
+body{
+
+	background-color: #FFFFFF;
+	color: #666666;
+	font-family: arial; 
+}
+header{
+	color: #FFFFFF;
+	text-align: center;
+	background-color: #000033;
+	font-family: arial;
+
+}
+nav{
+	font-weight: bold;
+	text-align: center;
+	background-color: #3399cc;
+}
+h1{
+
+	line-height: 200%;
+}
+h2{
+
+	color: #90c7e3;
+}
+footer{
+
+	
+	font-size: .60EM;
+	font-style: italic;
+	text-align: center;
+
+}
+#wrapper{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
